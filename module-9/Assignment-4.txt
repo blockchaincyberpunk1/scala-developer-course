@@ -1,0 +1,39 @@
+Stay Updated with Scala Developments
+
+Objective: To keep students informed about the latest developments in the Scala ecosystem.
+
+Task:
+
+In the rapidly evolving field of Scala development, staying updated with the latest developments, language features, libraries, and best practices is crucial for becoming a proficient Scala developer. In this assignment, students will cultivate the habit of staying informed and sharing their insights with the class.
+
+Instructions:
+
+Choose Scala Resources:
+
+Instruct students to select a variety of Scala-related resources to follow. These resources may include:
+Scala blogs and websites (e.g., Scala Times, Scala Lang, Lightbend Blog).
+Technical articles and research papers related to Scala.
+Scala-related newsletters, mailing lists, or podcasts.
+Create a Reading Schedule:
+
+Ask students to create a reading schedule for the duration of the assignment. They should aim to read at least one resource per week or as per the schedule they set.
+Read and Summarize:
+
+Each time students read a resource, they should summarize the key takeaways, interesting insights, and any new developments they come across.
+Share Insights:
+
+Encourage students to actively participate in class discussions or online forums related to the Scala course. They should share their insights, summaries, and opinions on the materials they read.
+Maintain a Log:
+
+Students should maintain a log or document where they record the resources they read, dates of reading, and their summaries or notes. This log will serve as evidence of their participation.
+Reflect on Learning:
+
+At the end of the assignment, students should reflect on what they have learned, any changes in their understanding of Scala, and how staying updated benefits their career.
+Evaluation:
+
+Evaluation criteria for this assignment may include:
+
+Consistency in reading Scala-related resources as per the schedule.
+Quality of summaries and insights shared with the class or online community.
+Active participation in class discussions or forums.
+Reflection on how staying updated contributes to their knowledge and skills as Scala developers.

@@ -1,0 +1,51 @@
+Advanced Concurrency Patterns with Scala Futures
+
+Objective: To explore advanced concurrency patterns using Scala Futures.
+
+Task:
+
+In this assignment, students will delve into advanced concurrency patterns using Scala Futures and Promises. They will be challenged to implement complex concurrent patterns that are commonly encountered in real-world applications. By completing this assignment, students will gain a deep understanding of how to apply concurrent programming concepts effectively in Scala.
+
+Instructions:
+
+Introduction to Advanced Concurrency Patterns:
+
+Begin by introducing the concept of advanced concurrency patterns, such as parallel map-reduce, worker pools, or rate limiting.
+Explain the scenarios in which these patterns are useful and the challenges they address.
+Choose a Concurrency Pattern:
+
+Ask students to select one of the following concurrency patterns for implementation:
+Parallel Map-Reduce: Implement a parallel map-reduce system that processes a large dataset concurrently.
+Worker Pool: Create a worker pool system where multiple tasks are distributed among a pool of worker threads.
+Rate Limiting: Develop a rate-limiting mechanism that controls the rate of execution of tasks.
+Implement the Chosen Pattern:
+
+Students should design and implement the chosen concurrency pattern using Scala Futures and Promises.
+Encourage them to think about how the pattern can be applied to solve a practical problem or use case.
+Asynchronous Programming:
+
+Emphasize the use of asynchronous programming techniques, including composing and chaining Future operations.
+Discuss how to handle exceptions and errors gracefully within the chosen pattern.
+Testing:
+
+Instruct students to write comprehensive tests to validate the correctness and performance of their concurrency pattern implementation.
+Test scenarios should include typical and edge cases.
+Performance Analysis:
+
+Ask students to measure and compare the performance of their concurrency pattern with and without parallelism.
+Discuss the performance improvements and trade-offs.
+Documentation:
+
+Require students to document their implementation, including design choices and any challenges they encountered.
+Presentation:
+
+Optionally, invite students to present their concurrency pattern implementations to the class, explaining the problem they solved and demonstrating their code.
+Evaluation:
+
+Evaluation criteria for this assignment may include:
+
+Correct implementation of the chosen concurrency pattern.
+Effective use of Scala Futures and Promises for asynchronous programming.
+Quality and completeness of test cases.
+Performance analysis and discussion of performance improvements.
+Documentation of the implementation, including design rationale.

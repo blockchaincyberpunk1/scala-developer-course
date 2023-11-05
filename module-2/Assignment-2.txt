@@ -1,0 +1,46 @@
+Variables and Data Types
+
+Objective: To practice declaring variables and working with different data types in Scala.
+
+Task:
+
+In this assignment, students will create a Scala program to practice declaring variables and working with various data types. The primary objective is to reinforce their understanding of data types and variable declarations in Scala, including type inference.
+
+Instructions:
+
+Setting Up:
+
+Ensure that students have access to a Scala development environment, such as IntelliJ IDEA with the Scala plugin or Visual Studio Code with Scala Metals.
+Variable Declarations:
+
+Instruct students to create a Scala program that does the following:
+Declares variables of different data types, including but not limited to Int, Double, String.
+Assigns values to these variables.
+Demonstrates type inference by not specifying explicit data types for some variables.
+Code Organization:
+
+Encourage students to organize their code neatly and include comments to explain the purpose and data type of each variable.
+Output:
+
+Instruct students to print the values of these variables to the console using the "println" function.
+Type Inference:
+
+Ask students to make use of Scala's type inference feature by omitting explicit data types where possible. They should rely on Scala's ability to infer the data types based on the assigned values.
+Compilation and Execution:
+
+Provide instructions on how to compile and run the Scala program they have created.
+Testing:
+
+Encourage students to test their program to ensure that it correctly declares variables, assigns values, and prints the expected output.
+Submission:
+
+Students can submit their Scala source code as a single file.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Correct implementation of the program with variable declarations and assignments.
+Proper use of Scala's type inference feature.
+Organized and well-commented code.
+Successful compilation and execution of the program.
+Testing to confirm that the program functions as expected.

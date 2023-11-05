@@ -1,0 +1,46 @@
+Control Structures and Pattern Matching
+
+Objective: To introduce control structures and pattern matching in Scala.
+
+Task:
+
+In this assignment, students will create a Scala program that utilizes "if-else" statements and pattern matching to determine whether a given number is even or odd. The primary objective is to introduce students to control structures and pattern matching in Scala.
+
+Instructions:
+
+Setting Up:
+
+Ensure that students have access to a Scala development environment, such as IntelliJ IDEA with the Scala plugin or Visual Studio Code with Scala Metals.
+Program Logic:
+
+Instruct students to create a Scala program that performs the following tasks:
+Accepts a single integer input from the user.
+Uses an "if-else" statement to check if the input number is even or odd.
+Utilizes pattern matching to achieve the same determination (without using "if-else").
+Prints the result to the console, indicating whether the number is even or odd.
+Code Organization:
+
+Encourage students to organize their code neatly and include comments to explain the purpose of each section.
+Input and Output:
+
+Ask students to provide clear instructions to the user on how to input the number.
+The program should print the result in a human-readable format (e.g., "The number is even." or "The number is odd.").
+Compilation and Execution:
+
+Provide instructions on how to compile and run the Scala program they have created.
+Testing:
+
+Encourage students to test their program with various input values to ensure it correctly determines whether a number is even or odd.
+Submission:
+
+Students can submit their Scala source code as a single file.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Correct implementation of the program logic to determine even and odd numbers.
+Proper use of "if-else" statements and pattern matching.
+Organized and well-commented code.
+Clear and user-friendly input and output.
+Successful compilation and execution of the program.
+Testing to confirm that the program correctly identifies even and odd numbers.

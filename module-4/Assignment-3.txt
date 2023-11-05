@@ -1,0 +1,49 @@
+Closures and Lexical Scoping
+
+Objective: To understand closures and lexical scoping in functional programming.
+
+Task:
+
+In this assignment, students will deepen their understanding of closures and lexical scoping in Scala, which are important concepts in functional programming. They will create a program that demonstrates the use of closures by defining functions that capture variables from their surrounding context and use them effectively.
+
+Instructions:
+
+Concept Explanation:
+
+Begin by explaining the concepts of closures and lexical scoping to the students.
+Define what closures are in the context of functional programming: functions that capture and remember the variables in their lexical scope even after that scope has exited.
+Task Implementation:
+
+Instruct students to create a Scala program that demonstrates closures and lexical scoping. They can follow these steps:
+a. Define a function in their program that takes an argument and returns another function.
+b. Within the inner function, capture and use a variable from the outer function's scope.
+c. Invoke the inner function with different arguments and observe how it retains access to the captured variable.
+Example Scenarios:
+
+Provide students with example scenarios they can implement to showcase closures and lexical scoping. For instance:
+a. Create a closure that calculates the total cost of a shopping cart, where the inner function captures the prices of items from the outer function's scope.
+b. Develop a closure that generates unique ID numbers, where the inner function captures a counter variable from the outer function's scope.
+Demonstration:
+
+Ask students to print the results of invoking the closure with different arguments to illustrate how captured variables affect the behavior of the inner function.
+Testing:
+
+Encourage students to create test cases that verify the correctness of their closures and lexical scoping. They should ensure that the captured variables behave as expected.
+Code Quality:
+
+Remind students to write clean and well-organized code. They should use meaningful variable and function names and provide comments to explain their implementations.
+Documentation:
+
+Encourage students to provide clear documentation explaining how their program works and demonstrating the use of closures and lexical scoping.
+Submission:
+
+Set a deadline for students to submit their implementation along with explanations and test cases.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Correct implementation of closures and lexical scoping.
+Effective use of captured variables in the closure.
+Quality of code, including organization and comments.
+Demonstration of captured variables' behavior through test cases.
+Clarity and completeness of documentation.

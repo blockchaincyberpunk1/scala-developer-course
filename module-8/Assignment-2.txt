@@ -1,0 +1,45 @@
+Advanced Database Operations with Slick
+
+Objective: To delve deeper into database operations with Slick and implement more complex database operations.
+
+Task:
+
+In this assignment, students will build upon the skills acquired in the previous assignment and take their database application to the next level by implementing advanced database operations using the Slick library. The assignment aims to challenge students to write efficient and optimized database queries.
+
+Instructions:
+
+Database Schema Enhancement:
+
+Instruct students to review and enhance their existing database schema if necessary. They should consider the need for new tables or relationships to support advanced database operations.
+Advanced Query Operations:
+
+Guide students in implementing the following advanced database operations using Slick:
+Joins: Instruct students on performing inner joins, outer joins, and self-joins. They should apply these joins to retrieve data from multiple related tables.
+Aggregations: Teach students how to perform aggregations like SUM, COUNT, AVG, and GROUP BY to derive meaningful insights from the data.
+Subqueries: Explain the concept of subqueries and how to use them to filter and retrieve data based on subquery results.
+Transactions: Discuss database transactions and guide students in implementing transactions for operations that require atomicity.
+Query Optimization:
+
+Emphasize the importance of query optimization for performance. Students should understand how to use indexing, query planning, and database profiling tools to optimize their database queries.
+Error Handling and Rollback:
+
+Instruct students on implementing error handling mechanisms for database transactions. They should understand how to handle errors gracefully and perform rollback operations when necessary.
+Testing:
+
+Encourage students to write comprehensive unit tests for their advanced database operations. They should validate the correctness of their queries and operations.
+Documentation:
+
+Stress the importance of updating their project documentation to reflect the changes made in the database schema and the implementation of advanced operations.
+Presentation:
+
+Ask students to present their enhanced database application to the class. They should demonstrate the advanced operations they've implemented, explain the query optimization strategies applied, and discuss any challenges encountered.
+Evaluation:
+
+Evaluation criteria for this assignment may include:
+
+Successful implementation of advanced database operations.
+Efficient and optimized queries.
+Effective error handling and transaction management.
+Quality and coverage of unit tests for advanced operations.
+Clarity and completeness of updated documentation.
+Presentation and communication skills during the final presentation.

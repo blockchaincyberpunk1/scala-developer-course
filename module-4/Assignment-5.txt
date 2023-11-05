@@ -1,0 +1,53 @@
+Functional Programming Principles
+
+Objective: To apply functional programming principles in a real-world scenario.
+
+Task:
+
+In this assignment, students will have the opportunity to apply functional programming principles to solve a complex problem. They will choose a challenging task that requires them to leverage key functional programming concepts such as immutability, higher-order functions, recursion, and pattern matching. This assignment encourages students to think functionally and design elegant, functional solutions.
+
+Instructions:
+
+Concept Review:
+
+Begin by reviewing essential functional programming principles and concepts with the students, emphasizing immutability, higher-order functions, recursion, and pattern matching.
+Problem Selection:
+
+Instruct students to choose one of the following complex problems or propose their own:
+a. Implement a functional parser for a simple programming language (e.g., arithmetic expressions or a subset of a real programming language).
+b. Create a program that generates Fibonacci numbers using a functional approach.
+c. Solve a complex mathematical or algorithmic problem using functional programming techniques.
+Functional Design:
+
+Encourage students to design their solution with functional principles in mind:
+a. Use immutable data structures to represent data.
+b. Leverage higher-order functions (map, filter, reduce, etc.) to manipulate data.
+c. Implement recursion for tasks that naturally lend themselves to recursive solutions.
+d. Utilize pattern matching to handle different cases and improve code readability.
+Implementation:
+
+Students should implement their chosen solution using Scala. They must follow the functional programming principles discussed and apply them to their code.
+Encourage modular and well-structured code.
+Testing:
+
+Instruct students to create comprehensive test cases to verify the correctness and efficiency of their functional solution.
+Emphasize the importance of testing for functional programs.
+Documentation:
+
+Require students to provide clear documentation explaining their chosen problem, the functional principles applied in their solution, and how their code works.
+Include examples and explanations in the documentation.
+Presentation:
+
+Optionally, students can present their solutions to the class, explaining their design choices and demonstrating how functional programming improved their code.
+Submission:
+
+Set a deadline for students to submit their functional solutions along with documentation and test cases.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Correct and efficient implementation of the chosen problem.
+Effective application of functional programming principles, including immutability, higher-order functions, recursion, and pattern matching.
+Quality of code, including organization and modularity.
+Comprehensive test coverage and verification of solution correctness.
+Clarity and completeness of documentation.

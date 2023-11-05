@@ -1,0 +1,58 @@
+Advanced Web Application (Optional)
+
+Objective: To challenge advanced students with a more complex web application project.
+
+Task:
+
+This assignment is designed for advanced students who wish to push the boundaries of their web development skills in Scala. It encourages creativity and exploration of advanced web application features. Students can choose to work on this assignment as an optional challenge.
+
+Instructions:
+
+Choose an Advanced Project:
+
+Advanced students can select a project idea that goes beyond the basics of web application development.
+Encourage them to think of innovative features or integrations that will showcase their skills.
+Project Scope:
+
+Clarify the scope of their chosen project. Ensure it includes advanced features that challenge their understanding of web development and Scala.
+Discuss with each student to define clear project objectives and requirements.
+Architecture and Design:
+
+Students should design a robust architecture for their application. This should include considerations for scalability and maintainability.
+Discuss design patterns and best practices for building complex web applications.
+User Authentication and Authorization:
+
+If relevant to their project, students should implement user authentication and authorization systems. They can use libraries like SecureSocial or implement custom solutions.
+Real-Time Updates:
+
+For applications that require real-time updates, students can explore technologies like WebSockets or Server-Sent Events (SSE) to implement real-time features.
+External API Integration:
+
+If applicable, students can integrate external APIs into their application to fetch or push data. They should handle API authentication and error handling gracefully.
+Security:
+
+Emphasize the importance of security. Discuss common web application security vulnerabilities and how to mitigate them, including input validation, SQL injection prevention, and cross-site scripting (XSS) protection.
+Testing and Quality Assurance:
+
+Encourage students to write comprehensive tests for their advanced features. They should cover both unit tests and integration tests.
+Discuss continuous integration and continuous deployment (CI/CD) practices.
+Documentation:
+
+Stress the significance of clear documentation. Students should provide extensive documentation for their advanced web application, including how to set up, use, and maintain it.
+Deployment and Scalability:
+
+Discuss deployment options and strategies for scalability. If applicable, guide students on deploying their advanced application to cloud platforms like AWS, Google Cloud, or Azure.
+Final Presentation:
+
+Ask students to present their advanced web application to the class. They should demonstrate the unique features they've implemented and explain their technical decisions.
+Evaluation:
+
+Evaluation criteria for this assignment may include:
+
+Complexity and creativity of the project.
+Effective use of advanced features (e.g., user authentication, real-time updates, API integration).
+Security measures implemented.
+Quality and coverage of tests.
+Clarity and completeness of documentation.
+Successful deployment (if applicable).
+Presentation and communication skills during the final presentation.

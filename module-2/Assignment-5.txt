@@ -1,0 +1,52 @@
+Functions and Recursion
+
+Objective: To practice defining functions and exploring recursion in Scala.
+
+Task:
+
+In this assignment, students will write a Scala program that focuses on defining functions and exploring recursion. They will implement a recursive function to calculate the factorial of a given number. Furthermore, students will create separate recursive functions for additional mathematical operations, such as generating the Fibonacci sequence and finding prime numbers.
+
+Instructions:
+
+Setting Up:
+
+Ensure that students have access to a Scala development environment, such as IntelliJ IDEA with the Scala plugin or Visual Studio Code with Scala Metals.
+Program Requirements:
+
+Instruct students to create a Scala program that meets the following requirements:
+Define a recursive function to calculate the factorial of a given non-negative integer.
+Create separate recursive functions for:
+Generating the Fibonacci sequence up to a specified term (e.g., first 10 terms).
+Finding prime numbers within a given range (e.g., prime numbers between 1 and 100).
+Allow the user to input values for calculations (e.g., the number for factorial, the number of Fibonacci terms, the range for finding prime numbers).
+Code Organization:
+
+Encourage students to organize their code neatly, use meaningful function names, and include comments to explain the purpose of each function.
+Recursion:
+
+Emphasize the use of recursive calls within the functions.
+Encourage students to consider base cases and termination conditions for recursion.
+Input and Output:
+
+Implement user-friendly input prompts and display the results clearly in the console.
+Compilation and Execution:
+
+Provide instructions on how to compile and run the Scala program they have created.
+Testing:
+
+Ask students to test their program with different inputs to ensure that it correctly calculates factorials, generates Fibonacci sequences, and finds prime numbers using recursion.
+Documentation:
+
+Encourage students to document their code with comments explaining how each recursive function works.
+Additional Challenges (Optional):
+
+For more advanced students, consider adding optional challenges, such as optimizing the prime number calculation or implementing memoization for Fibonacci calculations.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Correct implementation of recursive functions for factorial, Fibonacci sequence generation, and prime number finding.
+Proper handling of user input and clear output presentation.
+Organized and well-commented code.
+Successful compilation and execution of the program.
+Testing with various inputs to validate the correctness of the recursive calculations.

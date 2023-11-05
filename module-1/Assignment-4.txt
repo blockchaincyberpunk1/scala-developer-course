@@ -1,0 +1,46 @@
+Scala Control Structures - Loops
+
+Objective: To practice loop structures in programming using Scala.
+
+Task:
+
+In this assignment, students will work on loop structures in Scala. They will create two separate programs, each demonstrating the use of a loop:
+
+Program 1: Printing the First Ten Even Numbers
+
+Instruct students to write a Scala program that uses a loop (either "for" or "while") to print the first ten even numbers. The program should display these numbers in the console.
+Program 2: Calculating the Sum of Integers
+
+Ask students to write another Scala program that uses a loop to calculate the sum of all integers from 1 to 100 (inclusive). The program should print the calculated sum to the console.
+Instructions:
+
+Setting Up:
+
+Ensure that students have access to a Scala development environment, such as IntelliJ IDEA with the Scala plugin or Visual Studio Code with Scala Metals.
+Program Logic (Printing the First Ten Even Numbers):
+
+Instruct students to create a Scala program for printing the first ten even numbers.
+They should use a "for" or "while" loop to iterate and print the even numbers.
+The program should stop after printing ten even numbers.
+Program Logic (Calculating the Sum of Integers):
+
+Ask students to create another Scala program for calculating the sum of integers from 1 to 100.
+They should use a "for" or "while" loop to iterate through the range of integers and calculate the sum.
+The program should print the calculated sum to the console.
+Running the Programs:
+
+Instruct students to run both Scala programs separately to observe the output.
+Documentation and Comments:
+
+Encourage students to add comments to their code, explaining each program's logic and the loop structure they used.
+Submission:
+
+Students can submit both Scala programs they have written for this assignment.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Correct implementation of loop structures for printing even numbers and calculating the sum.
+Proper display of output with the expected results.
+Clear and informative comments explaining the code.
+Correct use of loop control structures to achieve the desired outcomes.

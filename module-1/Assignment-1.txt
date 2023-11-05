@@ -1,0 +1,43 @@
+Hello, World!
+
+Objective: To introduce students to basic program structure and output in Scala.
+
+Task:
+
+In this assignment, students will write a simple Scala program that prints "Hello, World!" to the console. This assignment aims to familiarize them with the basic structure of a Scala program and the process of running Scala code.
+
+Instructions:
+
+Setting Up:
+
+Ensure that students have Scala and a compatible development environment (e.g., IntelliJ IDEA with Scala plugin, Visual Studio Code with Scala Metals) installed on their machines.
+Writing the "Hello, World!" Program:
+
+Instruct students to create a new Scala project or Scala worksheet.
+
+Write a Scala program that consists of a single line of code to print "Hello, World!" to the console. Here's an example:
+
+scala
+Copy code
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, World!")
+  }
+}
+Encourage students to add comments explaining the purpose of each part of the code. For example, they can comment on the object definition, the main method, and the println statement.
+
+Running the Program:
+
+Guide students on how to run the Scala program in their chosen development environment. They should be able to see the "Hello, World!" message displayed in the console.
+Submitting the Assignment:
+
+Instruct students to take a screenshot or copy the console output displaying "Hello, World!" as proof of a successful run.
+They can submit the screenshot or output as part of their assignment submission.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Successful execution of the "Hello, World!" program.
+Clarity and completeness of code comments explaining the purpose of code components.
+Proper code formatting and structure.
+Proper submission of evidence (screenshot or console output) demonstrating the program's execution.

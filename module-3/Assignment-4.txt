@@ -1,0 +1,48 @@
+Case Classes and Pattern Matching
+
+Objective: To practice using case classes and pattern matching in Scala.
+
+Task:
+
+In this assignment, students will gain hands-on experience with Scala's case classes and pattern matching by modeling a simple inventory system. They will create a program that represents products using case classes and use pattern matching to perform various operations on the inventory.
+
+Instructions:
+
+Product Representation:
+
+Explain to students that they need to represent products using case classes. Each product should have properties like name, price, and quantity.
+Inventory Creation:
+
+Instruct students to create an inventory of products. They can define a list or collection of product instances within their program.
+Pattern Matching Operations:
+
+Ask students to implement the following operations using pattern matching:
+a. Add Product: Implement a function that adds a new product to the inventory.
+b. Update Quantity: Create a function that updates the quantity of a specific product in the inventory.
+c. Remove Product: Implement a function that removes a product from the inventory.
+d. Calculate Total Value: Write a function that calculates the total value of all products in the inventory (price * quantity).
+Interaction:
+
+Encourage students to interact with their program by calling these functions with different products and quantities.
+Error Handling:
+
+Ensure that students handle cases where a product is not found or when quantities become negative.
+Testing:
+
+Provide sample scenarios for testing, including adding new products, updating quantities, and calculating the total value.
+Code Organization:
+
+Emphasize the importance of well-organized and commented code.
+Compilation and Execution:
+
+Provide instructions on how to compile and run their Scala program.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Correct implementation of case classes for product representation.
+Accurate implementation of pattern matching operations.
+Proper handling of errors and edge cases.
+Effective testing of the operations with sample scenarios.
+Organized and well-commented code.
+Proper compilation and execution of the Scala program.

@@ -1,0 +1,58 @@
+Introduction to Akka Actors
+
+Objective: To introduce the Akka toolkit and actors model.
+
+Task:
+
+This optional assignment is designed for students who are interested in exploring Akka Actors, a powerful concurrency toolkit for building highly scalable and distributed systems in Scala. Students who choose to complete this assignment will gain hands-on experience with Akka Actors by creating a simple Actor system. They will design a scenario in which multiple actors exchange messages to demonstrate the benefits of using the actors model for concurrency.
+
+Instructions:
+
+Introduction to Akka and Actors:
+
+Begin by providing an overview of Akka and the actors model.
+Explain the core concepts, such as actors, messages, and the actor system.
+Setup and Dependencies:
+
+Instruct students to set up a Scala project with Akka as a dependency.
+Ensure they have the necessary libraries and plugins installed.
+Design a Scenario:
+
+Encourage students to think of a scenario where actors can model a real-world problem or system.
+Suggest scenarios such as a messaging application, a simulation of concurrent processes, or a simple game.
+Define Actors:
+
+Ask students to create actor classes for the chosen scenario.
+Each actor should extend the akka.actor.Actor trait and define its behavior when receiving messages.
+Message Passing:
+
+Instruct students to implement message passing between actors.
+Actors should exchange messages to coordinate their actions or share information.
+Emphasize the use of the ! (tell) operator for sending messages.
+Concurrent Execution:
+
+Discuss the benefits of the actors model for concurrent execution.
+Explain how actors can work independently and concurrently without shared mutable state.
+Supervision:
+
+Introduce the concept of actor supervision.
+Show how actors can supervise other actors and handle failures.
+Testing:
+
+Encourage students to write test cases to validate the behavior of their actors.
+Test scenarios should include successful message exchanges and error cases.
+Documentation:
+
+Ask students to document their actor system, including actor classes, message types, and the overall design.
+Presentation (Optional):
+
+Invite interested students to present their actor systems and discuss how the actors model benefits their chosen scenario.
+Evaluation (Optional):
+
+For students who choose to complete this optional assignment, evaluation criteria may include:
+
+Correct implementation of Akka Actors to model the chosen scenario.
+Effective use of message passing and concurrency within the actor system.
+Proper error handling and supervision mechanisms (if applicable).
+Quality of test cases to ensure correctness.
+Documentation of the actor system's design and message types.

@@ -1,0 +1,48 @@
+Real-Time Data Streaming with Akka Streams (Optional)
+
+Objective: To explore reactive programming and real-time data streaming using Akka Streams.
+
+Task:
+
+This is an optional assignment designed for students who wish to explore advanced topics in Scala development. In this assignment, students will work on building a real-time data streaming application using Akka Streams. The goal is to gain hands-on experience in handling asynchronous data and applying reactive principles.
+
+Instructions:
+
+Project Selection:
+
+Allow students to choose a project that involves real-time data streaming. Projects can vary based on their interests but should include the use of Akka Streams as the core technology.
+Data Source:
+
+Students should identify a data source for their project. This could be a real-time data feed, sensor data, social media updates, financial market data, or any streaming source that interests them.
+Akka Streams Implementation:
+
+Instruct students to use Akka Streams to consume and process the real-time data feed. They should create a pipeline of data processing stages using Akka Streams components.
+Encourage them to use the various operators and components provided by Akka Streams, such as map, filter, grouped, merge, and splitWhen, to transform and manipulate the data stream as needed.
+Real-Time Analytics:
+
+Depending on the nature of their data source, students can implement real-time analytics or processing logic. For example, they can calculate statistics, detect anomalies, or aggregate data over time windows.
+Error Handling and Backpressure:
+
+Emphasize the importance of handling errors gracefully and implementing backpressure mechanisms to manage data flow when processing real-time streams.
+Visualization (Optional):
+
+If students are interested, they can add a visualization component to their project. This could involve real-time charts or dashboards to display processed data.
+Testing:
+
+Encourage students to write comprehensive tests for their Akka Streams pipelines to ensure correctness and reliability.
+Documentation:
+
+Stress the importance of documenting their project, including the architecture, data source details, Akka Streams design, and any additional components they've implemented.
+Presentation:
+
+Ask students to present their real-time data streaming project to the class. They should explain their choice of data source, the Akka Streams implementation, and any interesting insights or challenges encountered during the project.
+Evaluation:
+
+Evaluation criteria for this assignment may include:
+
+Successful implementation of a real-time data streaming project.
+Effective use of Akka Streams operators and components.
+Appropriate error handling and backpressure management.
+Quality and coverage of tests for data processing logic.
+Clarity and completeness of project documentation.
+Presentation skills and ability to communicate project details effectively.

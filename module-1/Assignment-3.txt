@@ -1,0 +1,40 @@
+Scala Control Structures - Conditional Statements
+
+Objective: To introduce conditional statements and decision-making in programming using Scala.
+
+Task:
+
+In this assignment, students will create a Scala program that focuses on conditional statements. They will write a program that takes user input for their age and uses an "if-else" statement to determine if the user is eligible to vote. The program will print a message indicating whether or not the user can vote based on their age.
+
+Instructions:
+
+Setting Up:
+
+Ensure that students have access to a Scala development environment (e.g., IntelliJ IDEA with Scala plugin, Visual Studio Code with Scala Metals).
+Program Logic:
+
+Instruct students to create a new Scala project or Scala worksheet for this assignment.
+Ask them to write a Scala program that does the following:
+a. Takes user input for their age using the readLine function.
+b. Converts the input to an integer using .toInt.
+c. Uses an "if-else" statement to check if the user's age is greater than or equal to 18 (voting age).
+d. If the age is greater than or equal to 18, the program should print a message indicating that the user is eligible to vote.
+e. If the age is less than 18, the program should print a message indicating that the user is not eligible to vote.
+Running the Program:
+
+Instruct students to run the Scala program or worksheet.
+Ask them to test the program by entering different ages to observe the output.
+Documentation and Comments:
+
+Encourage students to add comments to their code, explaining each step and the purpose of the "if-else" statement.
+Submission:
+
+Students can submit the Scala code they have written for this assignment.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Correct implementation of the program logic.
+Proper handling of user input and conversion to an integer.
+Accurate use of the "if-else" statement to determine voting eligibility.
+Clear and informative comments explaining the code.

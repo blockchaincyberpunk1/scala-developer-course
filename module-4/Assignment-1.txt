@@ -1,0 +1,52 @@
+Immutable Data Structures
+
+Objective: To practice working with immutable data structures in Scala.
+
+Task:
+
+In this assignment, students will gain experience in working with immutable data structures by implementing common data structures like a stack or queue using Scala's immutable collections. The objective is to ensure that students understand how to create and manipulate data structures without modifying their original state.
+
+Instructions:
+
+Choose Immutable Data Structures:
+
+Instruct students to select one of the following immutable data structures to implement:
+a. Immutable Stack
+b. Immutable Queue
+Scala Collections:
+
+Explain to students that they should implement the chosen data structure using Scala's immutable collections. They can use List, Vector, or other appropriate immutable collections available in Scala's standard library.
+Define Operations:
+
+Ask students to define the operations that should be supported by the chosen data structure. For example, a stack should support operations like push, pop, and peek, while a queue should support operations like enqueue, dequeue, and peek.
+Immutability:
+
+Emphasize the importance of maintaining immutability throughout the assignment. Students should not modify the original data structure but create new instances when necessary.
+Implementation:
+
+Instruct students to implement the chosen data structure with the specified operations using Scala's immutable collections. They should demonstrate how each operation works without altering the underlying data.
+Program:
+
+Encourage students to create a sample program that demonstrates the use of their implemented data structure. The program should showcase various operations and scenarios to ensure the data structure's correctness.
+Testing:
+
+Stress the importance of testing their data structure thoroughly. Students should create test cases that cover different use cases, including edge cases and error handling.
+Code Quality:
+
+Remind students to write clean and well-organized code. They should use appropriate naming conventions and add comments to explain their implementations.
+Documentation:
+
+Encourage students to provide clear documentation for their data structure, explaining how it works, what operations are supported, and how to use it.
+Submission:
+
+Set a deadline for students to submit their implementation, program, and test cases.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Correct implementation of the chosen immutable data structure.
+Properly defined and functioning operations.
+Adherence to immutability principles.
+Effective testing with comprehensive test cases.
+Quality of code, including organization and comments.
+Clarity and completeness of documentation.

@@ -1,0 +1,48 @@
+Database Optimization and Performance Tuning
+
+Objective: To optimize database interactions in Slick-based applications.
+
+Task:
+
+In this assignment, students will focus on optimizing and fine-tuning their Slick-based database applications. The goal is to identify performance bottlenecks and apply various techniques to enhance the speed and efficiency of database access.
+
+Instructions:
+
+Database Application Review:
+
+Students should begin by thoroughly reviewing their existing Slick-based database application. They should have a clear understanding of the application's data access patterns, queries, and interactions with the database.
+Profiling and Performance Analysis:
+
+Instruct students to use profiling tools and monitoring techniques to identify performance bottlenecks in their application. They should look for slow-running queries, inefficient database interactions, and areas with high resource usage.
+Query Optimization:
+
+Encourage students to revisit their database queries and optimize them for better performance. This may involve:
+Adding appropriate indexes to database tables.
+Refactoring queries to reduce complexity.
+Using Slick-specific optimizations, such as query optimizations and compiled queries.
+Caching frequently accessed data to reduce redundant database requests.
+Connection Pooling and Resource Management:
+
+Discuss the importance of connection pooling and resource management. Students should ensure that database connections are efficiently managed, reused, and released to prevent resource exhaustion.
+Batch Processing (Optional):
+
+For students interested in advanced optimization, suggest implementing batch processing for database operations. This can significantly improve the efficiency of bulk inserts, updates, or deletes.
+Load Testing:
+
+Ask students to perform load testing on their application to evaluate its performance under heavy loads. They can use tools like Gatling or Apache JMeter to simulate concurrent users and measure database performance.
+Documentation:
+
+Emphasize the importance of documenting the optimization steps taken, including the changes made to queries, the use of indexes, and any performance improvements observed.
+Presentation:
+
+Require students to present their optimization efforts and results to the class. They should share their findings, the techniques applied, and the impact on database performance.
+Evaluation:
+
+Evaluation criteria for this assignment may include:
+
+Identification of performance bottlenecks in the original application.
+Effectiveness of query optimizations and database changes.
+Efficient use of connection pooling and resource management.
+Performance improvements observed during load testing.
+Quality and completeness of documentation.
+Clarity and effectiveness of the presentation.

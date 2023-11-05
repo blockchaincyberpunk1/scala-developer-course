@@ -1,0 +1,61 @@
+Web Application with Play Framework
+
+Objective: To introduce students to web application development using Play Framework.
+
+Task:
+
+In this assignment, students will delve into web application development using the Play Framework, a popular web framework in the Scala ecosystem. The objective is for students to gain hands-on experience in building a simple web application from scratch.
+
+Instructions:
+
+Choose a Project Idea:
+
+Ask students to choose a project idea for their web application. It could be a simple CRUD (Create, Read, Update, Delete) system for managing data, a task manager, a blog, or any other idea that interests them.
+Setting Up the Project:
+
+Guide students through the process of setting up a new Play Framework project.
+Ensure that they understand the project structure and the role of essential directories and files.
+Routes and Controllers:
+
+Explain how to define routes in the routes file and create controllers to handle HTTP requests.
+Students should create controllers for different actions required by their application (e.g., creating, reading, updating, and deleting data).
+Views and Templates:
+
+Teach students how to create views and templates for rendering HTML pages.
+Encourage them to use Scala templates to generate dynamic content.
+Database Integration:
+
+If applicable to their project, explain how to integrate a database (e.g., PostgreSQL, MySQL) using a Play Framework database driver like Slick or Anorm.
+Students should create models and database tables to store and retrieve data.
+User Interaction:
+
+If relevant to their project, guide students in implementing user interaction features such as user registration, authentication, and authorization.
+Show them how to handle user input securely.
+Front-End Integration:
+
+Explain how to integrate front-end assets (HTML, CSS, JavaScript) into their Play project.
+Students should ensure that their web application has a user-friendly and responsive interface.
+Testing:
+
+Emphasize the importance of testing web applications. Encourage students to write unit tests for their controllers and models.
+Discuss tools and libraries for testing in the Play Framework.
+Documentation:
+
+Require students to provide documentation for their web application. The documentation should include setup instructions and a brief explanation of how the application works.
+Deployment (Optional):
+
+Optionally, you can introduce students to deploying their Play Framework applications to platforms like Heroku or AWS.
+Submission:
+
+Ask students to submit their Play Framework web application, code, documentation, and any necessary database scripts through the course's chosen submission platform.
+Evaluation:
+
+Evaluation criteria for this assignment may include:
+
+Correct implementation of routes, controllers, and views.
+Proper database integration and data manipulation (if applicable).
+Effective user interaction features (if included in the project).
+User-friendly and responsive front-end design.
+Quality and coverage of unit tests.
+Completeness and clarity of documentation.
+Bonus points for successfully deploying the application (if applicable).

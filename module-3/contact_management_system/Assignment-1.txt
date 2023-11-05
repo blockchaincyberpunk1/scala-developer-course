@@ -1,0 +1,47 @@
+Assignment: Crafting a Robust Contact Management System
+Background:
+In the realm of programming, creating modular and efficient code is a crucial skill. One common scenario involves building systems to manage data, such as contact information. In this assignment, you will be tasked with designing a Contact Management System using Scala, focusing on classes, objects, and traits.
+
+Instructions:
+
+You are required to design and implement a Contact Management System using Scala. Your system should have the following components:
+
+Contact Class (20 points):
+
+Define a class named Contact that represents a contact with attributes such as name, phone number, and email.
+Include appropriate constructors to initialize the contact details.
+Implement methods to retrieve and display the contact information.
+Group Trait (15 points):
+
+Define a trait named Group that represents a group of contacts.
+Include a method to add a contact to the group.
+Implement a method to list all contacts in the group.
+Favorites Group Class (15 points):
+
+Create a class named FavoritesGroup that extends the Group trait.
+Implement a mechanism to mark contacts as favorites.
+Override the method to list contacts to display only favorite contacts.
+RestrictedGroup Class (20 points):
+
+Create a class named RestrictedGroup that extends the Group trait.
+Implement a method to restrict access to specific contacts in the group.
+Override the method to list contacts to exclude restricted contacts.
+Main Object (10 points):
+
+Implement a main object that demonstrates the functionality of your Contact Management System.
+Create instances of contacts, favorites groups, and restricted groups.
+Add contacts to the groups, mark favorites, and test restricted access.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness: Ensure that your code accurately implements the specified functionality.
+Inheritance and Traits: Utilize inheritance principles and traits to structure your classes and traits.
+Access Modifiers: Use appropriate access modifiers (public, private, protected) to control visibility.
+Code Organization: Keep your code organized, modular, and easy to understand.
+Documentation: Include comments to explain your code and its functionality.
+
+Submission:
+
+Compile your Scala code into a single file named ContactManagementSystem.scala. 

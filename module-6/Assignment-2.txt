@@ -1,0 +1,55 @@
+Parallel Data Processing
+
+Objective: To practice parallelism in Scala using Futures.
+
+Task:
+
+In this assignment, students will explore the power of parallelism in Scala by working on parallel data processing using Futures. They will be given a dataset and will implement a parallel data processing pipeline to demonstrate how parallelism can significantly improve the processing time of the dataset.
+
+Instructions:
+
+Introduction to Parallel Data Processing:
+
+Start by explaining the concept of parallelism in Scala and its advantages in processing large datasets.
+Provide an overview of Futures and how they can be used for parallelism.
+Dataset Selection:
+
+Choose a suitable dataset for this assignment. It could be a collection of numbers, strings, or any other data type that can be processed in parallel.
+Ensure that the dataset is large enough to demonstrate the benefits of parallelism.
+Parallel Data Processing Pipeline:
+
+Instruct students to design a data processing pipeline that can handle the dataset concurrently.
+Break down the processing pipeline into multiple stages (e.g., data transformation, filtering, mapping) that can be executed independently.
+Parallel Execution Using Futures:
+
+Assign each stage of the processing pipeline to a separate Future. Each Future should handle a specific stage of data processing.
+Encourage students to use combinators like Future.map, Future.flatMap, and Future.sequence to coordinate the parallel execution of these stages.
+Synchronization and Ordering:
+
+Explain how to ensure proper synchronization and ordering of stages if necessary.
+Discuss the importance of waiting for all Futures to complete before proceeding to the next stage.
+Measurement and Comparison:
+
+Instruct students to measure and record the time it takes to process the dataset using their parallel processing pipeline.
+Optionally, ask them to implement a sequential version of the pipeline and measure its execution time for comparison.
+Documentation and Reporting:
+
+Require students to document their approach, including how they designed the parallel processing pipeline and any challenges they encountered.
+Ask for a report that includes the dataset used, execution times, and a comparison of the parallel and sequential implementations.
+Testing:
+
+Encourage students to write test cases to validate the correctness of their data processing pipeline.
+Submission:
+
+Set a deadline for students to submit their Scala code, test cases, and the report describing their approach and results.
+Evaluation Criteria:
+
+Students' submissions will be evaluated based on the following criteria:
+
+Correct implementation of a parallel data processing pipeline using Futures.
+Proper synchronization and ordering of stages, if necessary.
+Accurate measurement and comparison of execution times.
+Effective documentation of the approach and challenges.
+Code organization and readability.
+Quality of test cases to ensure correctness.
+Presentation of results in the report.

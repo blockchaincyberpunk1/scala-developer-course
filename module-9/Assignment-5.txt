@@ -1,0 +1,41 @@
+Organize a Scala Study Group (Optional)
+
+Objective: To empower advanced students to take a leadership role and promote knowledge sharing within the class.
+
+Task:
+
+As an advanced student in the Scala Developer course, you have the opportunity to take on a leadership role and contribute to the learning experience of your peers. This assignment encourages you to organize and facilitate a Scala study group or workshop on a specific Scala topic of your choice.
+
+Instructions:
+
+Choose a Scala Topic:
+
+Select a specific Scala topic that you find interesting and believe will benefit your peers. This could be related to advanced language features, Scala libraries, best practices, or a real-world application of Scala.
+Prepare Study Materials:
+
+Prepare study materials, such as presentation slides, code examples, exercises, or reading materials, related to the chosen Scala topic. Ensure that the materials are clear and well-structured.
+Schedule the Session:
+
+Coordinate with your peers and the course instructor to schedule a suitable date and time for the study group session. Consider whether it will be a one-time session or a series of sessions.
+Facilitate the Study Group:
+
+On the scheduled date, lead the study group session. Present the chosen Scala topic, facilitate discussions, and encourage active participation from your peers.
+You can use various teaching methods, such as presentations, live coding, group exercises, or Q&A sessions, to make the session engaging.
+Encourage Participation:
+
+Promote a collaborative learning environment by encouraging your peers to ask questions, share their insights, and actively participate in discussions and coding activities.
+Gather Feedback:
+
+At the end of the session(s), gather feedback from your peers to assess the effectiveness of the study group. Use this feedback to improve your facilitation skills.
+Reflect and Report:
+
+Write a reflective report summarizing the study group's objectives, activities, and outcomes. Include insights gained from facilitating the session and any challenges faced.
+Evaluation:
+
+Evaluation criteria for this assignment may include:
+
+The choice of Scala topic and its relevance to the course.
+Clarity and effectiveness of study materials and presentation.
+Engagement and active participation of peers during the study group session(s).
+Ability to facilitate discussions and address questions effectively.
+The quality of the reflective report, including insights and improvements identified.

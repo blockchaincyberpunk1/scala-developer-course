@@ -1,0 +1,52 @@
+Scala Variable Declaration and Data Types
+
+Objective: To practice declaring variables and using different data types in Scala.
+
+Task:
+
+In this assignment, students will create a Scala program that focuses on variable declaration and the use of various data types. By completing this task, they will gain practical experience with different data types available in Scala.
+
+Instructions:
+
+Setting Up:
+
+Ensure that students have access to a Scala development environment (e.g., IntelliJ IDEA with Scala plugin, Visual Studio Code with Scala Metals).
+Variable Declaration and Initialization:
+
+Instruct students to create a new Scala project or Scala worksheet for this assignment.
+
+Assign the following tasks to them:
+a. Declare and initialize variables of different data types (e.g., Int, Float, String, Boolean).
+b. Assign values to these variables. For example:
+
+scala
+Copy code
+val integerVar: Int = 42
+val floatVar: Float = 3.14f
+val stringVar: String = "Hello, Scala!"
+val booleanVar: Boolean = true
+Printing Variable Values and Types:
+
+Guide students on how to use the println function to print the values and types of these variables to the console. For example:
+
+scala
+Copy code
+println(s"integerVar: $integerVar (Type: ${integerVar.getClass.getSimpleName})")
+println(s"floatVar: $floatVar (Type: ${floatVar.getClass.getSimpleName})")
+println(s"stringVar: $stringVar (Type: ${stringVar.getClass.getSimpleName})")
+println(s"booleanVar: $booleanVar (Type: ${booleanVar.getClass.getSimpleName})")
+Running the Program:
+
+Instruct students to run the Scala program or worksheet to see the printed output.
+Submission:
+
+Ask students to take a screenshot of the console output, which should display the variable values and their corresponding data types.
+Students can submit the screenshot as evidence of completing the assignment.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Successful declaration, initialization, and assignment of variables.
+Correct use of data types (e.g., Int, Float, String, Boolean).
+Accurate printing of variable values and types to the console.
+Proper submission of the console output screenshot.

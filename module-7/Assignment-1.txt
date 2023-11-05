@@ -1,0 +1,48 @@
+Basic Command-Line Application in Scala
+
+Objective: To create a simple command-line application using Scala.
+
+Task:
+
+In this assignment, students will create a basic command-line application using the Scala programming language. The objective is to introduce them to the fundamentals of building command-line tools and handling user inputs effectively.
+
+Instructions:
+
+Choose a Task:
+
+Start by asking students to select a specific task or functionality that their command-line application will perform. The task should be manageable and appropriate for beginners, such as file manipulation, data conversion, or text processing.
+Application Development:
+
+Students should develop a Scala application that accomplishes the chosen task.
+Encourage the use of functional programming principles where applicable.
+Argument Parsing:
+
+Teach students how to use libraries like "scopt" or implement their own argument parsing logic to handle command-line arguments and options.
+Ensure that the application accepts command-line arguments necessary for executing the chosen task.
+User Interaction:
+
+Instruct students to provide clear and informative user prompts and messages.
+Explain how to handle user inputs, including validating and sanitizing data as needed.
+Error Handling:
+
+Emphasize the importance of robust error handling. Students should implement error messages and gracefully handle any exceptions that may occur during execution.
+Documentation:
+
+Require students to provide documentation for their command-line application. The documentation should include usage instructions, a description of the task it performs, and any dependencies used.
+Testing:
+
+Encourage students to write unit tests to validate the functionality of their command-line tool.
+Test cases should cover different scenarios and edge cases to ensure the application's correctness.
+Submission:
+
+Ask students to submit their command-line application code and documentation through the course's chosen submission platform.
+Evaluation:
+
+Evaluation criteria for this assignment may include:
+
+Correct implementation of the chosen task.
+Effective argument parsing and handling of command-line inputs.
+Quality of user interaction (clear prompts and messages).
+Robust error handling and graceful failure modes.
+Documentation completeness and clarity.
+Quality and coverage of unit tests.

@@ -1,0 +1,54 @@
+Object-Oriented Design
+
+Objective: To apply object-oriented design principles in Scala.
+
+Task:
+
+In this assignment, students will demonstrate their understanding of object-oriented design principles by creating a simple library management system in Scala. The system should consist of classes representing books, patrons, and transactions, showcasing key concepts of object-oriented programming.
+
+Instructions:
+
+Class Design:
+
+Instruct students to design the following classes:
+a. Book: Represents information about a book, including title, author, ISBN, and availability status.
+b. Patron: Represents library patrons with attributes like name, library card number, and borrowed books.
+c. Transaction: Models transactions when patrons borrow or return books.
+Encapsulation:
+
+Encourage students to apply encapsulation by defining private fields and providing public methods for accessing and modifying the attributes.
+Inheritance:
+
+Ask students to explore inheritance by identifying common attributes or behaviors between classes and creating appropriate parent classes or interfaces.
+Polymorphism:
+
+Ensure that students demonstrate polymorphism by implementing methods in subclasses that override methods defined in parent classes or interfaces. For example, a borrow method can have different implementations for Book and Patron classes.
+Interaction:
+
+Require students to create instances of these classes, simulate borrowing and returning books, and manage the library's state.
+Error Handling:
+
+Emphasize the importance of error handling, such as checking if a book is available for borrowing or if a patron has exceeded their borrowing limit.
+Testing:
+
+Encourage students to thoroughly test their library management system by creating sample scenarios and verifying that the system behaves as expected.
+Code Organization:
+
+Remind students to keep their code well-structured and maintainable by using meaningful class and method names and adding comments where necessary.
+Documentation:
+
+Stress the significance of documenting their code with explanations of classes, methods, and any design decisions made.
+Demonstration:
+
+Ask students to demonstrate the functionality of their library management system by performing actions like adding books, registering patrons, borrowing and returning books, and checking transaction history.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Proper design of classes and interfaces.
+Correct implementation of encapsulation, inheritance, and polymorphism.
+Effective error handling and edge case considerations.
+Comprehensive testing of the library management system.
+Organized and well-commented code.
+Clear documentation of classes, methods, and design decisions.
+Successful demonstration of the system's functionality.

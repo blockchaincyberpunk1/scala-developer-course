@@ -1,0 +1,41 @@
+Custom Database Backend (Optional)
+
+Objective: To provide an optional challenge for advanced students.
+
+Task:
+
+This optional assignment is designed to challenge advanced students and allow them to explore the world of custom database backends and specialized database technologies. Students have the freedom to choose a specific database technology or use case that aligns with their interests and career goals. Below are the general guidelines for this assignment:
+
+Instructions:
+
+Topic Selection:
+
+Encourage students to choose a specific area of interest within the realm of databases. They can explore options such as NoSQL databases (e.g., MongoDB, Cassandra), graph databases (e.g., Neo4j), or specialized use cases like geospatial data storage (e.g., PostGIS).
+Research and Exploration:
+
+Instruct students to conduct in-depth research on their chosen database technology or use case. They should familiarize themselves with the concepts, features, and best practices related to their selected topic.
+Project Development:
+
+Students should develop a custom database backend or build a Scala-based application that integrates with the chosen database technology. The project should aim to solve a real-world problem or demonstrate a practical application of the selected technology.
+Implementation and Testing:
+
+Encourage students to implement their project following best practices and guidelines. They should thoroughly test the functionality and performance of their custom database backend or application.
+Documentation:
+
+Stress the importance of documenting their project, including the design decisions, implementation details, and instructions for running and using the custom database backend or application.
+Presentation:
+
+Require students to give a presentation to the class about their project. They should explain the chosen database technology, showcase their implementation, and discuss the practical applications or benefits of their solution.
+Optional Enhancement:
+
+For advanced students who are up for an additional challenge, suggest that they explore advanced topics within their chosen area. For example, they can look into distributed databases, sharding, replication, or advanced query optimization techniques.
+Evaluation:
+
+Evaluation criteria for this assignment may include:
+
+Thoroughness of research and understanding of the chosen database technology or use case.
+Quality and functionality of the custom database backend or application.
+Effective use of Scala and database-related libraries or tools.
+Documentation quality and completeness.
+Clarity and effectiveness of the presentation.
+Optional enhancements or advanced features explored (for advanced students).

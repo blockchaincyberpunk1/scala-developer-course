@@ -1,0 +1,56 @@
+Command-Line Data Processing Tool in Scala
+
+Objective: To build a more advanced command-line application for data processing.
+
+Task:
+
+In this assignment, students will create a more advanced command-line application using the Scala programming language. The objective is to challenge them to build a data processing tool that can handle data from files, APIs, or other sources. The tool should provide features for data validation, transformation, and output generation.
+
+Instructions:
+
+Choose a Data Processing Task:
+
+Start by asking students to select a specific data processing task for their command-line application. This could involve tasks such as data validation, cleaning, transformation, or aggregation.
+Application Development:
+
+Students should develop a Scala application that accomplishes the chosen data processing task.
+Encourage the use of functional programming principles where applicable.
+Argument Parsing and Options:
+
+Teach students how to use libraries like "scopt" or implement their own argument parsing logic to handle command-line arguments and options.
+Ensure that the application accepts command-line arguments necessary for configuring the data processing task.
+Data Input:
+
+Instruct students on how to read data from files, make API requests, or accept data from other sources as required for the task.
+Data Processing:
+
+Students should implement the data processing logic, which may include data validation, transformation, or aggregation.
+Explain how to handle various data formats and exceptions that may occur during processing.
+Data Output:
+
+Students should design their tool to generate meaningful output, which could be written to files or displayed in the console.
+Ensure that the output is well-formatted and informative.
+User-Friendly Interface:
+
+Emphasize the importance of a user-friendly interface. The application should provide clear help messages, usage instructions, and error messages.
+Documentation:
+
+Require students to provide comprehensive documentation for their command-line application. The documentation should include usage examples and explanations of how to configure and run the tool.
+Testing:
+
+Encourage students to write unit tests for the data processing logic and ensure that the tool behaves correctly in different scenarios.
+Submission:
+
+Ask students to submit their command-line data processing tool, code, and documentation through the course's chosen submission platform.
+Evaluation:
+
+Evaluation criteria for this assignment may include:
+
+Correct implementation of the data processing task.
+Effective argument parsing and configuration options.
+Quality of data input and handling from various sources.
+Correct and efficient data processing logic.
+Quality of data output, including formatting and informativeness.
+User-friendly interface and informative help messages.
+Completeness and clarity of documentation.
+Quality and coverage of unit tests.

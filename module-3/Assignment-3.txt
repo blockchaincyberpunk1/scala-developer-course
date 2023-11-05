@@ -1,0 +1,50 @@
+Functional Programming with Collections
+
+Objective: To further delve into functional programming using Scala collections.
+
+Task:
+
+In this assignment, students will explore the power of functional programming in Scala by working with collections. They will write a program that manipulates a collection of data (e.g., a list of numbers or strings) using functional programming techniques. The goal is to perform various operations like filtering, mapping, and folding on the data, all while taking advantage of Scala's functional features.
+
+Instructions:
+
+Setting Up:
+
+Ensure that students have access to a Scala development environment, such as IntelliJ IDEA with the Scala plugin or Visual Studio Code with Scala Metals.
+Choose a Data Collection:
+
+You can provide students with a specific data collection (e.g., a list of numbers or strings) to work with, or allow them to choose their own collection.
+Functional Operations:
+
+Instruct students to perform the following operations on the chosen data collection:
+a. Filter: Filter out elements based on a specific condition.
+b. Map: Transform elements of the collection using a provided function.
+c. Fold: Aggregate the elements in the collection into a single result using a folding operation (e.g., sum, product, concatenation).
+Implementation:
+
+Ask students to write a Scala program that carries out these operations using functional programming constructs such as filter, map, and fold.
+Showcase Results:
+
+Encourage students to print and showcase the results of each operation to the console.
+Additional Functional Features (Optional):
+
+For students who want to challenge themselves further, they can explore additional functional programming features like flatMap or for-comprehensions to perform more complex operations on the collection.
+Testing:
+
+Provide sample data and scenarios to test the correctness of their functional operations.
+Code Organization:
+
+Emphasize the importance of code organization, including meaningful variable names and comments.
+Compilation and Execution:
+
+Provide instructions on how to compile and run their Scala program.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Correct implementation of filter, map, and fold operations.
+Accurate results displayed for each operation.
+Effective use of functional programming constructs.
+Thorough testing of the functional operations.
+Organized and well-commented code.
+Proper compilation and execution of the Scala program.

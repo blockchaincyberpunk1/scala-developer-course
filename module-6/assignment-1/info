@@ -1,0 +1,80 @@
+Exploring Scala Futures and Mapping Operations: Unveiling the Realm of Asynchronous Excellence
+Assignment Overview
+Welcome to an exhilarating assignment that propels you into the dynamic world of asynchronous programming with Scala. In this assignment, you will navigate the intricacies of Scala Futures and master the art of applying mapping operations to manipulate asynchronous results. As Futures play a pivotal role in concurrent programming, this assignment will equip you with the skills to harness their power effectively.
+
+Exercise 1: Creating Futures
+In this exercise, you'll dive headfirst into the realm of asynchronous computations. Your task is to create a Scala program that leverages Futures to execute time-consuming computations seamlessly. Consider calculating the factorial of a large number or simulating a lengthy operation.
+
+scala
+Copy code
+import scala.concurrent.Future
+import scala.concurrent.ExecutionContext.Implicits.global
+import scala.concurrent.Await
+import scala.concurrent.duration._
+
+object Exercise1 {
+  def main(args: Array[String]): Unit = {
+    val futureResult = Future {
+      // Perform your time-consuming computation here
+      // Example: Calculating factorial or simulating a lengthy operation
+    }
+
+    println("Computation in progress...")
+    val result = Await.result(futureResult, 5.seconds)
+    println(s"Computation result: $result")
+  }
+}
+Exercise 2: Applying Mapping Operations
+As you become familiar with creating Futures, it's time to take your skills a step further. Extend your program to include mapping operations on a Future's result. This time, create a Future that performs a mathematical operation—perhaps squaring a number or finding the square root.
+
+scala
+Copy code
+object Exercise2 {
+  def main(args: Array[String]): Unit = {
+    val futureSquare = Future {
+      // Perform a mathematical operation
+    }
+
+    val mappedFuture = futureSquare.map(result => result * 2) // Apply mapping operation
+    val mappedResult = Await.result(mappedFuture, 5.seconds)
+    println(s"Transformed result: $mappedResult")
+  }
+}
+Exercise 3: Chaining Mapping Operations
+In the final exercise, you'll ascend to the pinnacle of your asynchronous programming journey. Create a Future that tackles a true-life asynchronous operation—like fetching data from a remote API or reading from a file. Embrace the power of chaining multiple mapping operations together to transform the data incrementally.
+
+scala
+Copy code
+object Exercise3 {
+  def main(args: Array[String]): Unit = {
+    val asyncFuture = Future {
+      // Perform an asynchronous operation
+    }
+
+    val finalResult = asyncFuture
+      .map(data => data.toUpperCase) // Apply first mapping operation
+      .map(modifiedData => modifiedData.replace("X", "Y")) // Apply second mapping operation
+      .map(finalData => finalData.reverse) // Apply third mapping operation
+
+    val transformedData = Await.result(finalResult, 5.seconds)
+    println(s"Transformed data: $transformedData")
+  }
+}
+Additional Instructions
+ExecutionContext: Utilize the power of import scala.concurrent.ExecutionContext.Implicits.global to import the global execution context, which is essential for running asynchronous operations.
+
+Experimentation: Embrace the spirit of experimentation by exploring diverse computations and mapping operations. This experimentation will provide a holistic understanding of how Futures and mapping synergize.
+
+Time Simulation: To mimic longer-running operations, consider using Thread.sleep within your computations. This will help you grasp the essence of handling asynchronous tasks efficiently.
+
+Assessment Criteria
+Your assignment evaluation will focus on the following:
+
+Accuracy and effectiveness of your code in utilizing Futures and mapping operations.
+Clarity and conciseness of your code, ensuring proper use of constructs and best practices.
+Documented thought process and any challenges faced during the exercises.
+Submission
+Compile your Scala code into a cohesive single file. If necessary, infuse your code with insightful comments that illuminate your thought process and any roadblocks you encountered during the exercises.
+
+Final Thoughts
+Futures and mapping operations are the pillars of asynchronous programming with Scala. This assignment is your launchpad into the world of concurrent excellence, propelling you to create applications that gracefully handle asynchronous tasks. Through hands-on experience, you'll cultivate a deep appreciation for the synergy between Futures and mapping. Ready to embark on this journey? Let the magic of asynchronous programming unfold!

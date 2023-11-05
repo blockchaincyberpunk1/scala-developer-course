@@ -1,0 +1,47 @@
+Monads and Functional Abstractions
+
+Objective: To introduce students to monads and other functional abstractions.
+
+Task:
+
+In this assignment, students will explore advanced functional programming concepts, including monads, applicative functors, or monoids. They will implement a custom monad or another functional abstraction and demonstrate how these abstractions simplify complex operations.
+
+Instructions:
+
+Choose a Functional Abstraction:
+
+Explain to students the concepts of monads, applicative functors, and monoids in functional programming.
+Allow students to choose one of these functional abstractions as the focus of their assignment.
+Encourage students to research and gain a deep understanding of the chosen abstraction.
+Implement the Abstraction:
+
+Assign students the task of implementing a custom monad (or the chosen abstraction) in Scala.
+The custom abstraction should encapsulate a specific behavior or operation, making it easier to work with in various scenarios.
+Ensure that the implementation adheres to the principles and laws associated with the chosen abstraction.
+Demonstrate Use Cases:
+
+Students should create a program that showcases practical use cases for their custom monad or functional abstraction.
+Provide sample code or scenarios where their abstraction simplifies complex operations, demonstrating its utility.
+Test Cases:
+
+Require students to write comprehensive test cases to validate the correctness and behavior of their custom abstraction.
+Test different scenarios and edge cases to ensure that the abstraction behaves as expected.
+Documentation:
+
+Ask students to provide documentation that explains the purpose and usage of their custom monad or functional abstraction.
+Include examples and use cases to illustrate how to work with the abstraction effectively.
+Presentation (Optional):
+
+Optionally, students can present their solutions to the class, explaining their design choices and demonstrating how the abstraction simplifies complex operations.
+Submission:
+
+Set a deadline for students to submit their Scala code, test cases, and documentation.
+Evaluation Criteria:
+
+Students' submissions will be evaluated based on the following criteria:
+
+Correct and efficient implementation of the custom monad or functional abstraction.
+Comprehensive and effective test coverage to ensure the correctness and behavior of the abstraction.
+Clarity and completeness of documentation, including explanations of the abstraction's purpose and usage.
+Creative and innovative use of the abstraction to simplify complex operations.
+Code organization and readability.

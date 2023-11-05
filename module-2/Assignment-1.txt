@@ -1,0 +1,40 @@
+Hello, Scala!
+
+Objective: To introduce students to Scala's syntax and basic program structure.
+
+Task:
+
+In this assignment, students will create a simple Scala program that prints "Hello, Scala!" to the console. The primary objective is to familiarize students with Scala's syntax and the basic structure of a Scala program.
+
+Instructions:
+
+Setting Up:
+
+Ensure that students have access to a Scala development environment, such as IntelliJ IDEA with the Scala plugin or Visual Studio Code with Scala Metals.
+Program Logic:
+
+Instruct students to write a Scala program that prints the text "Hello, Scala!" to the console.
+Code Explanation:
+
+Encourage students to add comments to their code, explaining any new or unfamiliar syntax or concepts they have used in the program. This can include explanations of:
+The "object" keyword and its role in Scala programs.
+The "main" method and its significance.
+The use of the "println" function for console output.
+Any other Scala-specific syntax or concepts they encountered while writing the program.
+Compilation and Execution:
+
+Provide instructions on how to compile and run the Scala program they have created.
+Testing:
+
+Encourage students to test their program to ensure that it successfully prints "Hello, Scala!" to the console without errors.
+Submission:
+
+Students can submit their Scala source code as a single file.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Correct implementation of the Scala program to print "Hello, Scala!" to the console.
+Inclusion of comments explaining the key syntax and concepts used in the program.
+Successful compilation and execution of the program.
+Proper testing to confirm that the program functions as expected.

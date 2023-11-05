@@ -1,0 +1,56 @@
+Basic Futures and Promises
+
+Objective: To understand the basics of Scala Futures and Promises.
+
+Task:
+
+In this assignment, students will dive into concurrent programming in Scala by working with Futures and Promises. They will create a program that simulates concurrent tasks using Futures and uses Promises to collect results and handle exceptions gracefully.
+
+Instructions:
+
+Introduction to Futures and Promises:
+
+Start by explaining the concepts of Futures and Promises in Scala.
+Provide a brief overview of how Futures represent asynchronous computations, and how Promises are used to complete those computations.
+Task Simulation:
+
+Ask students to create a Scala program that simulates concurrent tasks.
+Define a set of simple tasks (e.g., calculations, network requests, or I/O operations) that can run concurrently.
+These tasks should return results of different data types (e.g., Int, String) and may occasionally throw exceptions.
+Working with Futures:
+
+Assign each task to a Future, making use of the Future.apply constructor or Future.successful for immediate results.
+Show students how to perform basic operations with Futures such as mapping, flatMapping, and handling successful and failed computations.
+Using Promises:
+
+Introduce Promises as a means to collect results from Futures.
+Instruct students to create Promises for each of their tasks.
+Inside each Future, they should complete the corresponding Promise with either a successful result or an exception when the computation finishes.
+Exception Handling:
+
+Encourage students to handle exceptions gracefully within their Futures.
+Explain how to use Future.recover or Future.recoverWith to handle exceptions and return alternative values.
+Collecting Results:
+
+Demonstrate how to collect results from all Futures using combinators like Future.sequence or Future.traverse.
+Ensure that students collect and print the results of their concurrent tasks.
+Testing and Validation:
+
+Instruct students to write test cases for their concurrent tasks to ensure the correctness of their implementation.
+Test scenarios with both successful results and exceptions.
+Documentation and Comments:
+
+Emphasize the importance of documenting their code. Students should provide comments explaining the purpose of each section and any key decisions made.
+Submission:
+
+Set a deadline for students to submit their Scala code along with test cases and a brief report describing their approach and any challenges faced.
+Evaluation Criteria:
+
+Students' submissions will be evaluated based on the following criteria:
+
+Correct implementation of concurrent tasks using Futures and Promises.
+Effective handling of exceptions within Futures.
+Proper use of combinators to collect results from Futures.
+Thoroughness of test cases to ensure correctness.
+Code organization and readability.
+Documentation and comments explaining the code and any challenges encountered.

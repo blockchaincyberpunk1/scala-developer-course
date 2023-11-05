@@ -1,0 +1,48 @@
+Type Classes Implementation
+
+Objective: To practice implementing type classes for abstraction and reusability.
+
+Task:
+
+In this assignment, students will explore the concept of type classes in Scala and apply it to create a type class hierarchy. They will implement instances for various data types, demonstrating the power of abstraction and reusability in Scala's type system.
+
+Instructions:
+
+Define a Type Class Hierarchy:
+
+Explain the concept of type classes to students and provide a basic understanding of how they work in Scala.
+Assign students the task of defining a type class hierarchy with a specific focus (e.g., serialization, comparison, formatting).
+Encourage creativity in selecting the type class hierarchy's purpose, or provide a list of options for them to choose from.
+Implement Type Class Instances:
+
+Once students have defined the type class hierarchy, ask them to implement instances for different data types.
+These instances should demonstrate how the type class can be used with various types in a flexible and reusable manner.
+For example, if the type class is about serialization, students should implement instances for common data structures like lists, case classes, and custom data types.
+Usage Examples:
+
+Students should create a program that showcases the use of their type class hierarchy and its instances.
+Provide sample code or scenarios where their type classes and instances can be applied effectively.
+Emphasize how abstraction and reusability are achieved through type classes.
+Test Cases:
+
+Require students to write test cases to validate the correctness of their type class instances.
+Test different data types and scenarios to ensure that the type classes work as expected.
+Documentation:
+
+Ask students to provide documentation that explains the purpose of their type class hierarchy and instances.
+Include examples and use cases to illustrate how to use the type classes in practice.
+Presentation (Optional):
+
+Optionally, students can present their solutions to the class, explaining their design choices and demonstrating the use of type classes.
+Submission:
+
+Set a deadline for students to submit their Scala code, test cases, and documentation.
+Evaluation Criteria:
+
+Students' submissions will be evaluated based on the following criteria:
+
+Correct and efficient implementation of the type class hierarchy and instances.
+Comprehensive and effective test coverage to ensure the correctness of type class instances.
+Clarity and completeness of documentation, including explanations of how to use the type classes and their instances.
+Code organization and readability.
+Creative and innovative use of type classes to achieve abstraction and reusability.

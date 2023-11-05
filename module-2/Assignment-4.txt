@@ -1,0 +1,47 @@
+Collections and Functional Programming
+
+Objective: To explore Scala's collections and functional programming features.
+
+Task:
+
+In this assignment, students will create a Scala program that utilizes Scala collections (e.g., List, Map) to perform common operations like filtering, mapping, and reducing. The primary objective is to help students gain a deeper understanding of functional programming concepts in Scala.
+
+Instructions:
+
+Setting Up:
+
+Ensure that students have access to a Scala development environment, such as IntelliJ IDEA with the Scala plugin or Visual Studio Code with Scala Metals.
+Program Requirements:
+
+Instruct students to create a Scala program that meets the following requirements:
+Define a collection (e.g., List, Map) containing a set of elements (e.g., integers, strings).
+Use functional programming techniques to perform the following operations:
+Filter the collection to select specific elements based on a condition.
+Map the collection to transform its elements using a function.
+Perform a reduction operation (e.g., sum, product, concatenation) on the collection using a higher-order function.
+Print the results of each operation to the console for verification.
+Code Organization:
+
+Encourage students to organize their code neatly, use meaningful variable names, and include comments to explain the purpose of each section.
+Functional Programming:
+
+Emphasize the use of higher-order functions like "map," "filter," and "fold" to achieve the desired operations.
+Encourage students to use anonymous functions (lambdas) where appropriate.
+Compilation and Execution:
+
+Provide instructions on how to compile and run the Scala program they have created.
+Testing:
+
+Ask students to test their program with different collections and operations to ensure that it behaves as expected.
+Submission:
+
+Students can submit their Scala source code as a single file.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Correct implementation of collection operations, including filtering, mapping, and reduction.
+Proper use of functional programming concepts and higher-order functions.
+Organized and well-commented code.
+Successful compilation and execution of the program.
+Testing to confirm that the program correctly performs the specified operations on collections.

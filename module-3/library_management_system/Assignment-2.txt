@@ -1,0 +1,51 @@
+Assignment: Building a Library Management System
+Background:
+As a beginner coder, one of the most valuable skills you can develop is the ability to create organized and functional systems. In this assignment, you will tackle the challenge of building a Library Management System using Scala, focusing on classes, objects, inheritance, and access modifiers.
+
+Instructions:
+
+Your task is to design and implement a Library Management System using Scala. Your system should include the following components:
+
+Book Class (20 points):
+
+Define a class named Book that represents a book with attributes such as title, author, and ISBN.
+Implement constructors to initialize the book details.
+Include methods to display book information.
+User Class (20 points):
+
+Create a class named User to represent library users with attributes like name, library ID, and borrowing history.
+Implement methods to borrow and return books.
+Keep track of borrowed books and their due dates.
+LibraryItem Trait (15 points):
+
+Define a trait named LibraryItem to represent items that can be borrowed from the library.
+Include methods to check availability, borrow, and return items.
+BookItem Class (15 points):
+
+Create a class named BookItem that extends the LibraryItem trait.
+Implement the methods to handle book-specific actions.
+MagazineItem Class (15 points):
+
+Create a class named MagazineItem that extends the LibraryItem trait.
+Implement the methods to handle magazine-specific actions.
+Library Class (15 points):
+
+Implement a class named Library to manage books, users, and borrowed items.
+Include methods to add books, add users, and handle borrowing and returning actions.
+Main Object (10 points):
+
+Create a main object to demonstrate the functionality of your Library Management System.
+Create instances of books, users, and library items.
+Simulate borrowing and returning actions.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness: Ensure that your code accurately implements the specified functionality.
+Inheritance and Traits: Utilize inheritance principles and traits to structure your classes and traits.
+Access Modifiers: Use appropriate access modifiers (public, private, protected) to control visibility.
+Code Organization: Keep your code organized, modular, and easy to understand.
+Documentation: Include comments to explain your code and its functionality.
+Submission:
+
+Compile your Scala code into a single file named LibraryManagementSystem.scala.

@@ -1,0 +1,48 @@
+Contribute to an Open-Source Scala Project
+
+Objective: To introduce students to open-source contribution in the Scala ecosystem.
+
+Task:
+
+In this assignment, students will have the opportunity to actively contribute to an open-source Scala project hosted on platforms like GitHub. Open-source contributions provide valuable real-world experience, exposure to collaborative development practices, and the chance to give back to the Scala community.
+
+Instructions:
+
+Choose an Open-Source Scala Project:
+
+Instruct students to explore open-source Scala projects on platforms like GitHub, GitLab, or Bitbucket. They should select a project that aligns with their interests and skill level.
+Understanding the Project:
+
+Students should take the time to understand the selected project's structure, codebase, and any contributing guidelines provided by the project maintainers. This step is essential for a successful contribution.
+Identify Contributions:
+
+Encourage students to identify areas where they can contribute to the project. This may involve:
+Fixing reported bugs or issues.
+Implementing new features or enhancements.
+Improving documentation, including code comments and README files.
+Fork and Clone the Repository:
+
+Instruct students to fork the chosen project's repository to create their copy. They should then clone this forked repository to their local development environment.
+Implement Contributions:
+
+Students should work on their selected contributions by creating feature branches in their local repository. They should write clean, well-documented code and adhere to the project's coding style and conventions.
+Create Pull Requests:
+
+Once the contributions are ready, students should create pull requests (PRs) to the original project repository. They should provide clear and detailed descriptions of their changes in the PR.
+Address Feedback:
+
+Students should actively engage with project maintainers and reviewers by addressing feedback and making necessary adjustments to their PRs.
+Document Contributions:
+
+Encourage students to maintain a log or document detailing their contributions. This should include links to the PRs, the issues addressed, and any discussions with project maintainers.
+Reflect on the Experience:
+
+After the contributions are merged or reviewed, students should reflect on their experience. They should consider what they learned, challenges faced, and how their contributions benefited the project and the Scala community.
+Evaluation:
+
+Evaluation criteria for this assignment may include:
+
+Evidence of active contributions to an open-source Scala project.
+Quality and impact of contributions (e.g., bug fixes, new features, documentation improvements).
+Effective communication with project maintainers and responsiveness to feedback.
+Documentation of the contribution process, including links to PRs and issues.

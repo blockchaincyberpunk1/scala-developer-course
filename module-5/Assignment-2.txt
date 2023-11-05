@@ -1,0 +1,44 @@
+Extending Case Classes
+
+Objective: To understand the use of case classes for complex data structures.
+
+Task:
+
+In this assignment, students will explore the power of case classes in Scala by designing a data structure representing either a binary tree or a graph using case classes. They will then implement functions for tree traversal or graph algorithms, making use of pattern matching. This assignment aims to reinforce their understanding of case classes, pattern matching, and complex data structures in Scala.
+
+Instructions:
+
+Data Structure Design:
+
+Instruct students to design a data structure representing either a binary tree or a graph using case classes.
+For a binary tree, they can define case classes for nodes that contain data and references to left and right subtrees.
+For a graph, they can define case classes for nodes and edges, where nodes contain data and edges connect nodes.
+Encourage students to make use of case class features such as automatic equals, hashCode, and toString methods.
+Traversal or Algorithm Implementation:
+
+Assign students the task of implementing one or more functions that operate on their binary tree or graph data structure.
+For a binary tree, they can implement functions for different types of tree traversal (e.g., in-order, pre-order, post-order).
+For a graph, they can choose a graph algorithm (e.g., depth-first search, breadth-first search) to implement using pattern matching.
+Test Cases:
+
+Students should write comprehensive test cases to verify the correctness of their data structure and functions.
+Include different scenarios, such as trees or graphs with varying structures and sizes.
+Documentation:
+
+Require students to provide clear documentation explaining the purpose and usage of their data structure and functions.
+Include examples of how to use the implemented functions with their binary tree or graph.
+Presentation (Optional):
+
+Optionally, students can present their solutions to the class, explaining their design choices and demonstrating the functionality of their data structure and functions.
+Submission:
+
+Set a deadline for students to submit their Scala code, including the case class definitions, implemented functions, test cases, and documentation.
+Evaluation Criteria:
+
+Students' submissions will be evaluated based on the following criteria:
+
+Correct and efficient design of the binary tree or graph data structure using case classes.
+Accurate implementation of traversal or graph algorithms using pattern matching.
+Comprehensive and effective test coverage to ensure solution correctness.
+Clarity and completeness of documentation.
+Code organization and readability.

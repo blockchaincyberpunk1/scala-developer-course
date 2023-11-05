@@ -1,0 +1,51 @@
+Higher-Order Functions
+
+Objective: To reinforce the concept of higher-order functions and their usage in Scala.
+
+Task:
+
+In this assignment, students will deepen their understanding of higher-order functions in Scala. They will create a program that uses higher-order functions such as map, filter, and reduce to manipulate data collections. Students can choose to work with lists of numbers, strings, or custom objects, allowing them to practice functional transformations.
+
+Instructions:
+
+Data Collection Selection:
+
+Let students choose the type of data collection they want to work with. They can opt for:
+a. A list of numbers (e.g., List[Int])
+b. A list of strings (e.g., List[String])
+c. A list of custom objects (e.g., case class instances)
+Higher-Order Functions:
+
+Explain to students that they need to create a program that demonstrates the use of higher-order functions such as map, filter, and reduce on their chosen data collection.
+Provide examples of how these functions work and the kind of operations they can perform. For instance, map for transformation, filter for filtering elements, and reduce for aggregating values.
+Task Implementation:
+
+Instruct students to implement the following tasks using the chosen data collection and higher-order functions:
+a. Transformation: Use map to apply a transformation to each element in the collection (e.g., doubling numbers, converting strings to uppercase).
+b. Filtering: Use filter to select specific elements that meet certain criteria (e.g., filtering even numbers, selecting strings containing a particular character).
+c. Reduction: Use reduce to perform an aggregation operation on the collection (e.g., summing numbers, concatenating strings).
+d. Optionally, students can implement additional higher-order functions like flatMap or foldLeft if applicable to their chosen collection.
+Demonstration:
+
+Encourage students to create a program that demonstrates the results of applying each higher-order function. They should print the original collection, the transformed collection, the filtered collection, and the reduced result to the console.
+Testing:
+
+Stress the importance of testing their higher-order functions with different input data. They should create test cases that cover various scenarios, including edge cases.
+Code Quality:
+
+Remind students to write clean and well-organized code. They should use appropriate naming conventions and add comments to explain their implementations.
+Documentation:
+
+Encourage students to provide clear documentation explaining how their program works, what each higher-order function does, and how to use them.
+Submission:
+
+Set a deadline for students to submit their implementation, program, and test cases.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Correct implementation of higher-order functions (map, filter, reduce).
+Proper handling of the chosen data collection.
+Effective testing with comprehensive test cases.
+Quality of code, including organization and comments.
+Clarity and completeness of documentation.

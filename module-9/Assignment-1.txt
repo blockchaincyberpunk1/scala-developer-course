@@ -1,0 +1,43 @@
+Active Forum Participation
+
+Objective: To encourage students to actively engage in the Scala community.
+
+Task:
+
+In this assignment, students will become active participants in the Scala community by joining a Scala-related online forum or community platform. They will have the opportunity to share knowledge, answer questions, and discuss relevant topics with fellow Scala enthusiasts. The goal is to foster a sense of community involvement and to promote the exchange of ideas and expertise.
+
+Instructions:
+
+Choose a Scala Community Platform:
+
+Instruct students to select an online forum or community platform that focuses on Scala. Common platforms include Stack Overflow (Scala tag), Reddit's Scala subreddit, or the official Scala Contributors' Forum.
+Account Setup:
+
+Guide students through the process of creating an account or profile on their chosen platform if they don't have one already.
+Active Participation:
+
+Encourage students to actively participate in discussions and activities on the platform. They can:
+Answer questions related to Scala.
+Share their insights on best practices.
+Discuss interesting Scala-related topics.
+Offer guidance to beginners or those seeking help.
+Post links to valuable Scala resources or tutorials.
+Provide constructive feedback on code snippets or projects.
+Document Contributions:
+
+Students should document their contributions, including the questions they answered, the discussions they participated in, and any particularly valuable insights they shared. They can maintain a log or document for this purpose.
+Weekly Reports:
+
+Require students to submit weekly reports summarizing their activities on the Scala community platform. These reports should include details of their contributions, any challenges they faced, and reflections on their experiences.
+Presentation:
+
+Towards the end of the assignment, ask each student to prepare a short presentation summarizing their involvement in the Scala community. They should share their most significant contributions, insights gained, and the impact of their participation on their understanding of Scala.
+Evaluation:
+
+Evaluation criteria for this assignment may include:
+
+Consistency and frequency of participation on the chosen Scala community platform.
+Quality and helpfulness of answers and contributions.
+Engagement with other community members and discussions.
+Documentation of contributions and experiences.
+The effectiveness of the final presentation, showcasing the impact of community involvement.

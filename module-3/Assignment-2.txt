@@ -1,0 +1,47 @@
+Traits and Mixins
+
+Objective: To explore Scala's trait system and mixins.
+
+Task:
+
+In this assignment, students will dive into Scala's powerful trait system and mixins. They will create a program that defines traits representing various behaviors and then implement classes that mix in these traits to inherit their functionality.
+
+Instructions:
+
+Setting Up:
+
+Ensure that students have access to a Scala development environment, such as IntelliJ IDEA with the Scala plugin or Visual Studio Code with Scala Metals.
+Define Traits:
+
+Instruct students to define at least two traits that represent distinct behaviors (e.g., Printable, Serializable).
+Each trait should include abstract methods or fields related to the specific behavior it represents.
+Encourage students to think about meaningful behaviors and methods for each trait.
+Implement Classes:
+
+Ask students to create classes that represent objects with different combinations of behaviors.
+These classes should mix in the traits defined earlier to inherit the specified behaviors.
+Each class should implement the abstract methods or fields from the traits.
+Create Instances:
+
+Instruct students to create instances of the classes they've defined, demonstrating the mixed-in behaviors.
+Encourage them to showcase how the traits' methods and fields can be used within these instances.
+Testing:
+
+Provide sample test cases or scenarios where students can showcase the functionality of their classes with mixed-in traits.
+Ensure that students thoroughly test their implementations to demonstrate the effectiveness of the traits and mixins.
+Code Organization:
+
+Encourage students to organize their code neatly, use meaningful trait and class names, and include comments to explain their implementations.
+Compilation and Execution:
+
+Provide instructions on how to compile and run the Scala program they have created.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Correct definition and implementation of traits representing distinct behaviors.
+Successful creation of classes that mix in these traits and implement their abstract members.
+Effective use of mixed-in traits within class instances to demonstrate the desired behaviors.
+Thorough testing of class instances with mixed-in traits.
+Organized and well-commented code.
+Proper compilation and execution of the Scala program.

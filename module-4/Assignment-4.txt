@@ -1,0 +1,50 @@
+Currying and Partial Function Application
+
+Objective: To explore currying and partial function application in Scala.
+
+Task:
+
+In this assignment, students will delve into the concepts of currying and partial function application in Scala. These functional programming techniques allow functions to be transformed into more modular and flexible forms. Students will write a program that defines functions with multiple arguments and then converts them into curried functions or partially applied functions, demonstrating how these techniques lead to more modular code.
+
+Instructions:
+
+Concept Explanation:
+
+Begin by explaining the concepts of currying and partial function application in Scala to the students.
+Currying: The process of transforming a function that takes multiple arguments into a series of functions that each take one argument.
+Partial Function Application: Creating a new function by fixing a certain number of arguments of an existing function, resulting in a partially applied function.
+Task Implementation:
+
+Instruct students to create a Scala program that demonstrates currying and partial function application. They should follow these steps:
+a. Define a function that takes multiple arguments (at least two).
+b. Implement currying to convert the function into a curried form.
+c. Implement partial function application by fixing one or more arguments to create new functions.
+Example Scenarios:
+
+Provide students with example scenarios they can implement to showcase currying and partial application:
+a. Create a mathematical function (e.g., addition, multiplication) that takes two or more arguments, then curry it.
+b. Define a function that generates personalized email messages by partially applying the recipient's name to a generic email template.
+Demonstration:
+
+Ask students to demonstrate the use of curried functions and partially applied functions in their program by invoking them with different sets of arguments.
+Testing:
+
+Encourage students to create test cases that verify the correctness and modularity of their curried and partially applied functions.
+Code Quality:
+
+Remind students to write clean and well-organized code. They should use meaningful variable and function names and provide comments to explain their implementations.
+Documentation:
+
+Encourage students to provide clear documentation explaining how their program uses currying and partial function application, including examples.
+Submission:
+
+Set a deadline for students to submit their implementation along with explanations and test cases.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Correct implementation of currying and partial function application.
+Effective use of curried and partially applied functions in the program.
+Quality of code, including organization and comments.
+Demonstration of curried and partially applied functions' modularity and flexibility.
+Clarity and completeness of documentation.

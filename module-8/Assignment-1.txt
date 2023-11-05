@@ -1,0 +1,57 @@
+Basic Database Integration with Slick
+
+Objective: To introduce students to database integration using the Slick library.
+
+Task:
+
+In this assignment, students will create a Scala application that connects to a database and performs basic CRUD operations using the Slick library. This assignment aims to familiarize students with database interaction in Scala and the principles of the Slick library.
+
+Instructions:
+
+Database Selection:
+
+Students should choose a relational database system (e.g., PostgreSQL, MySQL, H2) for this assignment. Ensure that they have access to the chosen database.
+Project Setup:
+
+Guide students in setting up a new Scala project or module for this assignment. They should use a build tool like sbt or Maven.
+Slick Integration:
+
+Instruct students to add the Slick library as a dependency to their project. They should configure Slick to connect to their chosen database.
+Provide guidance on setting up the database connection URL, database driver, and credentials.
+Data Entity:
+
+Students should define a simple data entity for this assignment. It can be a basic entity like "User," "Product," or any other domain-specific entity of their choice.
+Discuss best practices for modeling the data entity, including defining case classes to represent the data.
+Schema Definition:
+
+Instruct students to create a schema definition using Slick's schema API. They should define the table structure that corresponds to their chosen data entity.
+Explain how to map case classes to database tables.
+CRUD Operations:
+
+Students should implement the following basic CRUD operations for their data entity:
+Create: Insert new records into the database.
+Read: Retrieve records from the database based on certain criteria.
+Update: Modify existing records in the database.
+Delete: Remove records from the database.
+Error Handling:
+
+Encourage students to handle database-related exceptions gracefully. Discuss error handling strategies and how to handle database errors using Slick.
+Testing:
+
+Guide students on writing unit tests for their CRUD operations. They should use testing frameworks like ScalaTest to validate the functionality.
+Documentation:
+
+Stress the importance of documentation. Students should provide clear instructions on how to set up and run their Scala application. They should also document their database schema and the structure of the data entity.
+Presentation:
+
+Ask students to present their database-integrated Scala application to the class. They should demonstrate the CRUD operations and explain their implementation choices.
+Evaluation:
+
+Evaluation criteria for this assignment may include:
+
+Successful database integration using Slick.
+Correct implementation of CRUD operations.
+Effective error handling for database-related exceptions.
+Quality and coverage of unit tests.
+Clarity and completeness of documentation.
+Presentation and communication skills during the final presentation.

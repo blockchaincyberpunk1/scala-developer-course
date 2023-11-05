@@ -1,0 +1,49 @@
+Scala Functions and Modularization
+
+Objective: To understand the concept of functions and code modularization in Scala.
+
+Task:
+
+In this assignment, students will work on creating a Scala program that calculates the factorial of a given number using a function. The primary objective is to demonstrate the use of functions for code modularization.
+
+Instructions:
+
+Setting Up:
+
+Ensure that students have access to a Scala development environment, such as IntelliJ IDEA with the Scala plugin or Visual Studio Code with Scala Metals.
+Program Logic:
+
+Instruct students to write a Scala program that calculates the factorial of a given positive integer.
+Encourage them to define a separate function named "calculateFactorial" responsible for performing the factorial calculation.
+The "calculateFactorial" function should take an integer parameter (the number for which to calculate the factorial) and return the factorial as an integer.
+The main program should:
+Prompt the user to input a positive integer.
+Call the "calculateFactorial" function with the user's input as the argument.
+Display the calculated factorial in the console.
+Function Definition:
+
+Ask students to define the "calculateFactorial" function with the following considerations:
+It should have one parameter representing the number for which to calculate the factorial.
+The function should use a loop (e.g., "for" or "while") to perform the factorial calculation.
+Properly initialize variables and handle edge cases (e.g., factorial of 0).
+Error Handling:
+
+Encourage students to handle cases where the user enters invalid input, such as a negative number or non-integer values. They should provide informative error messages and prompt the user again for valid input.
+Documentation and Comments:
+
+Remind students to add comments to their code, explaining the purpose of the "calculateFactorial" function and the main program logic.
+Running the Program:
+
+Instruct students to run the Scala program and test it with various input values to ensure it calculates factorials correctly and handles errors gracefully.
+Submission:
+
+Students can submit their Scala program as a single source code file.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Correct implementation of the "calculateFactorial" function for calculating factorials.
+Proper handling of user input errors and edge cases.
+Accurate calculation and display of factorials.
+Clear and informative comments explaining the code and function.
+Correct use of function modularization to separate logic.

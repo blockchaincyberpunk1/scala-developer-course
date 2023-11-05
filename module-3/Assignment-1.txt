@@ -1,0 +1,53 @@
+Class Hierarchy and Inheritance
+
+Objective: To practice defining classes and working with class hierarchies in Scala.
+
+Task:
+
+In this assignment, students will create a class hierarchy that represents different geometric shapes. They will define classes for common shapes such as circles, rectangles, and triangles, ensuring that these classes share common properties and methods. The assignment focuses on the use of inheritance and method overriding in Scala.
+
+Instructions:
+
+Setting Up:
+
+Ensure that students have access to a Scala development environment, such as IntelliJ IDEA with the Scala plugin or Visual Studio Code with Scala Metals.
+Class Hierarchy:
+
+Instruct students to create a class hierarchy that includes at least three different geometric shapes (e.g., Circle, Rectangle, Triangle).
+Each shape class should have the following common properties:
+Shape name (e.g., "Circle," "Rectangle," "Triangle").
+Color.
+Each shape class should have at least the following common methods:
+area() to calculate and return the area of the shape.
+perimeter() to calculate and return the perimeter of the shape.
+Encourage students to think about additional properties or methods that are specific to each shape.
+Inheritance:
+
+Emphasize the use of inheritance to create a parent shape class that contains the common properties and methods shared by all shapes.
+Ensure that each specific shape class (e.g., Circle, Rectangle) inherits from the parent shape class.
+Discuss the concept of method overriding, and instruct students to override methods when necessary to provide shape-specific implementations.
+Implementation:
+
+Encourage students to implement the classes and methods following good coding practices, including proper naming conventions and indentation.
+Testing:
+
+Instruct students to create instances of each shape, set their properties (e.g., color, dimensions), and calculate their areas and perimeters.
+Provide sample test cases for each shape type.
+Output:
+
+Ask students to print the details of each shape, including its name, color, area, and perimeter, to the console.
+Code Organization:
+
+Encourage students to organize their code neatly, use meaningful class and method names, and include comments to explain their implementations.
+Compilation and Execution:
+
+Provide instructions on how to compile and run the Scala program they have created.
+Evaluation Criteria:
+
+Students will be evaluated based on the following criteria:
+
+Correct implementation of a class hierarchy with inheritance.
+Properly overridden methods for shape-specific behavior.
+Successful creation and testing of instances for different shapes.
+Organized and well-commented code.
+Proper calculation and display of shape details in the output.

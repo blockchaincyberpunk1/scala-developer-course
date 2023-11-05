@@ -1,0 +1,59 @@
+Asynchronous Web Requests
+
+Objective: To apply asynchronous programming in making web requests.
+
+Task:
+
+In this assignment, students will gain hands-on experience with asynchronous programming in Scala by building a web scraper or an API client. They will use Scala Futures to fetch data from multiple sources concurrently, demonstrating the power of asynchronous programming for efficient web requests. Proper error handling and synchronization will be essential aspects of this assignment.
+
+Instructions:
+
+Introduction to Asynchronous Web Requests:
+
+Begin by explaining the importance of asynchronous programming in web scraping and API consumption.
+Highlight the benefits of fetching data from multiple sources concurrently using Scala Futures.
+Choose a Scenario:
+
+Present students with two options:
+a. Web Scraper: They can choose to build a web scraper that collects data from multiple websites concurrently.
+b. API Client: Alternatively, they can build an API client that fetches data from multiple APIs concurrently.
+Task Description:
+
+Based on the chosen scenario (web scraping or API client), provide specific requirements for the assignment.
+For a web scraper, specify the websites to scrape and the data to collect.
+For an API client, specify the APIs to consume and the data to retrieve.
+Parallel Data Fetching:
+
+Instruct students to use Scala Futures to perform concurrent data fetching.
+Assign each data source (e.g., website or API) to a separate Future for parallel execution.
+Encourage the use of combinators like Future.map, Future.flatMap, and Future.sequence for coordination.
+Error Handling:
+
+Emphasize the importance of proper error handling.
+Instruct students to handle errors gracefully, including network errors and data parsing errors.
+Consider providing guidance on Scala's error-handling mechanisms, such as Try or Either.
+Data Aggregation:
+
+Ask students to aggregate the fetched data appropriately.
+Depending on the scenario, they may need to merge or process data from multiple Futures.
+Testing:
+
+Encourage students to write test cases to validate the correctness of their asynchronous web requests.
+Test scenarios should include both successful responses and error cases.
+Documentation and Reporting:
+
+Require students to document their approach, including how they designed the asynchronous data fetching process.
+Ask for a report that includes details of the chosen scenario, data sources, implementation challenges, and test results.
+Submission:
+
+Set a deadline for students to submit their Scala code, test cases, and the report describing their approach and results.
+Evaluation Criteria:
+
+Students' submissions will be evaluated based on the following criteria:
+
+Correct implementation of asynchronous web requests using Scala Futures.
+Effective error handling and graceful handling of network and data parsing errors.
+Proper aggregation and processing of fetched data.
+Quality of test cases to ensure correctness.
+Documentation of the approach and challenges faced.
+Presentation of results in the report.

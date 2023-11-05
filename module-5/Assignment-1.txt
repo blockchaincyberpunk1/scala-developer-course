@@ -1,0 +1,41 @@
+Pattern Matching with Algebraic Data Types
+
+Objective: To practice advanced pattern matching using algebraic data types.
+
+Task:
+
+In this assignment, students will explore advanced pattern matching techniques in Scala by working with algebraic data types. They will create a set of algebraic data types that represent various shapes and then implement a pattern matching function to calculate the area of each shape. This assignment will reinforce their understanding of pattern matching, algebraic data types, and functional programming principles.
+
+Instructions:
+
+Shape Definitions:
+
+Instruct students to define a set of algebraic data types (ADTs) using sealed traits or enums to represent various geometric shapes. These shapes can include Circle, Square, Triangle, and any other shape they find interesting.
+Each shape should have associated data (e.g., radius for a Circle, side length for a Square, base and height for a Triangle).
+Area Calculation Function:
+
+Assign students the task of implementing a function named calculateArea that takes a shape as input and calculates its area using pattern matching.
+Encourage students to use pattern matching to destructure the shape and calculate the area based on its type.
+Test Cases:
+
+Students should write comprehensive test cases to verify the correctness of their calculateArea function.
+Include different shapes with varying dimensions in the test cases.
+Documentation:
+
+Require students to provide clear documentation explaining the purpose and usage of their program.
+Include examples of how to use the calculateArea function with different shapes.
+Presentation (Optional):
+
+Optionally, students can present their solutions to the class, explaining their design choices and demonstrating the functionality of their program.
+Submission:
+
+Set a deadline for students to submit their Scala code, including the shape definitions, calculateArea function, test cases, and documentation.
+Evaluation Criteria:
+
+Students' submissions will be evaluated based on the following criteria:
+
+Correct implementation of algebraic data types for representing shapes.
+Accurate and efficient implementation of the calculateArea function using pattern matching.
+Comprehensive test coverage and verification of solution correctness.
+Clarity and completeness of documentation.
+Code organization and readability.

@@ -1,0 +1,47 @@
+ Type System Exploration
+
+Objective: To explore Scala's advanced type system.
+
+Task:
+
+In this assignment, students will dive deeper into Scala's advanced type system by creating a program that leverages advanced type features. They will work on scenarios that require them to use type constraints, variance annotations, type projections, and other advanced type-related concepts. This assignment aims to enhance their understanding of Scala's powerful type system and its practical applications.
+
+Instructions:
+
+Choose a Scenario:
+
+Ask students to select one of the following scenarios or propose their own, provided it involves the use of advanced type system features:
+Building a type-safe container (e.g., a type-safe collection or data structure) that enforces type constraints on its elements.
+Creating a type-level domain-specific language (DSL) for a specific problem domain.
+Implementing a type-safe event system that ensures only valid event types can be subscribed to.
+Designing a system that uses variance annotations (covariance, contravariance) for type flexibility.
+Developing a generic algorithm with advanced type constraints.
+Encourage creativity in choosing or proposing scenarios.
+Implementation:
+
+Instruct students to implement their chosen scenario using Scala.
+Require them to use advanced type features such as type constraints (e.g., using type bounds), variance annotations (e.g., +T, -T), type projections (e.g., X#Y), and type-level programming constructs as needed.
+Emphasize the importance of type safety and compile-time checks in their implementation.
+Test Cases:
+
+Students should write comprehensive test cases to validate the correctness and type safety of their implementations.
+Include tests that cover various scenarios and edge cases related to the chosen scenario.
+Documentation:
+
+Students should provide clear and detailed documentation explaining the purpose of their program, the advanced type system features used, and how they ensure type safety.
+Include examples that demonstrate the functionality and type constraints of their program.
+Presentation (Optional):
+
+Optionally, students can present their solutions to the class, explaining their design choices and demonstrating how advanced type features are applied.
+Submission:
+
+Set a deadline for students to submit their Scala code, test cases, and documentation.
+Evaluation Criteria:
+
+Students' submissions will be evaluated based on the following criteria:
+
+Correct and efficient implementation of the chosen scenario using advanced type system features.
+Comprehensive and effective test coverage to ensure type safety and correctness.
+Clarity and completeness of documentation, including explanations of advanced type features used.
+Code organization and readability.
+Creativity and innovation in applying advanced type concepts to real-world scenarios.
